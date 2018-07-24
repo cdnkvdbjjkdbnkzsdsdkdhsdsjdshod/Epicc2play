@@ -2,9 +2,9 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "1play.js",
+  "main": "2play.js",
   "scripts": {
-    "start": "node 1play.js"
+    "start": "node 2play.js"
   },
   "dependencies": {
    "discord.js": "^11.3.2",
